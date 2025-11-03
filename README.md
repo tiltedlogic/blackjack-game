@@ -18,6 +18,11 @@ It’s not fully working yet and could be made cleaner, but I’m keeping it her
 
 ---
 
+### 🐞 Current Issues
+- After adding actual casino dealer hit / stand logic, I broke the check_status() function logic.   
+
+---
+
 ### 🚀 Future Goals
 - Add a betting system and player balance  
 - Handle Ace values (1 or 11) properly  
